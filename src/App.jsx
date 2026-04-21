@@ -7,7 +7,7 @@ function App() {
   return (
     <div className='outer-pokedex'>
     <h1 id="pokedex-heading">
-      <Link to="/">Pokedex</Link> {/* It will not reload again and again */}
+      <Link to="/"> Pokedex </Link> {/* It will not reload again and again */}
     </h1>
     <CustomRoutes/>
     </div>
