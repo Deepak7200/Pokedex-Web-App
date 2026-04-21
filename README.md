@@ -34,7 +34,11 @@ https://pokedex-tan-nine-43.vercel.app/
 
 ## 📸 Screenshots
 
+![Screenshot](./images/one.png)
 
+![Screenshot](./images/two.png)
+
+![Screenshot](./images/three.png)
 
 ---
 
