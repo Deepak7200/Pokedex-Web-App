@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import { Analytics } from '@vercel/analytics/react'
 import './App.css'
 import CustomRoutes from './routes/CstmRoutes'
 
@@ -10,6 +11,7 @@ function App() {
       <Link to="/"> Pokedex </Link> {/* It will not reload again and again */}
     </h1>
     <CustomRoutes/>
+    <Analytics />
     </div>
   )
 }
